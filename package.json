@@ -104,5 +104,8 @@
       "webpack",
       "webpack-merge"
     ]
+  },
+  "browser": {
+    "crypto": false
   }
 }
